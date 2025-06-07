@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 As an IT enthusiast, I have learned several things in my chosen major. I have expertise in developing, designing, and maintaining the projects I create. I am still trying to continue to improve my skills so that I can quickly adapt to this ever-growing industry. I have a principle to be brave with the changes faced, especially in terms of technological developments.
 
 
