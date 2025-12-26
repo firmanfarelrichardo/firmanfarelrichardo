@@ -1,24 +1,24 @@
-<!-- Header Banner (nature colors, dark theme) -->
+<!-- Header Banner (cyberpunk, dark theme) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2C5F2D,6B8E23,3B4C36&height=180&section=header&text=Hi%20There!%20I'm%20Firman%20Farel%20Richardo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff2d95,00fff1,8a2be2&height=180&section=header&text=Hi%20There!%20I'm%20Firman%20Farel%20Richardo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/firmanfarelrichardo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FB069&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Amazing+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff2d95&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Amazing+Projects" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://github.com/firmanfarelrichardo?tab=followers">
-    <img src="https://img.shields.io/github/followers/firmanfarelrichardo?label=Followers&style=for-the-badge&logo=github&color=2C5F2D" alt="GitHub Followers"/>
+    <a href="https://github.com/firmanfarelrichardo?tab=followers">
+    <img src="https://img.shields.io/github/followers/firmanfarelrichardo?label=Followers&style=for-the-badge&logo=github&color=ff2d95" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/firmanfarelrichardo">
-    <img src="https://img.shields.io/github/stars/firmanfarelrichardo?label=Stars&style=for-the-badge&logo=github&color=2C5F2D" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/firmanfarelrichardo?label=Stars&style=for-the-badge&logo=github&color=ff2d95" alt="GitHub Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=firmanfarelrichardo&label=Profile%20Views&color=2C5F2D&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=firmanfarelrichardo&label=Profile%20Views&color=ff2d95&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -79,21 +79,31 @@ const firman = {
 
 ---
 
-## GitHub Statistics
+## Most Used Languages
+
+Saya menampilkan bahasa yang paling sering digunakan di repositori saya. Warna mengikuti tema cyberpunk (neon magenta, cyan, purple).
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2C5F2D&icon_color=2C5F2D&text_color=a8b5d1" alt="GitHub Stats"/>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&langs_count=8&layout=normal&theme=dark&hide_border=true&title_color=%23ff2d95&icon_color=%2300fff1&text_color=%23cfefff" alt="Top Languages Detailed"/>
     </td>
     <td width="50%" align="center">
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=2C5F2D&icon_color=2C5F2D&text_color=a8b5d1" alt="Top Languages"/>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=%23ff2d95&icon_color=%2300fff1&text_color=%23cfefff&card_width=520" alt="Top Languages Compact"/>
     </td>
   </tr>
 </table>
 
+---
+
+## GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmanfarelrichardo&theme=dark&hide_border=true&ring=2C5F2D" alt="GitHub Streak"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=%23ff2d95&icon_color=%23ff2d95&text_color=%23cfefff" alt="GitHub Stats"/>
+</div>
+
+<div align="center" style="margin-top:12px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmanfarelrichardo&theme=dark&hide_border=true&ring=ff2d95" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -101,7 +111,7 @@ const firman = {
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&bg_color=0d1117&color=2C5F2D&line=2C5F2D&point=FFFFFF&area=true&hide_border=true&radius=16" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&bg_color=0b0f18&color=ff2d95&line=00fff1&point=8a2be2&area=true&hide_border=true&radius=16" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -129,7 +139,7 @@ const firman = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2C5F2D,6B8E23,3B4C36&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff2d95,00fff1,8a2be2&height=100&section=footer"/>
 </div>
 
 <div align="center">
