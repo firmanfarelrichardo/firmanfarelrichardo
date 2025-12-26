@@ -83,7 +83,7 @@ const firman = {
 
   <!-- Profile summary cards (compact, aesthetic) -->
   <div align="center" style="margin-top:18px; display:flex; gap:8px; flex-wrap:wrap; justify-content:center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firmanfarelrichardo&theme=2077" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" height="120"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firmanfarelrichardo&theme=2077" height="120"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firmanfarelrichardo&theme=2077" height="120"/>
     </div>
