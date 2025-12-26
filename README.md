@@ -84,13 +84,17 @@ const firman = {
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
     </td>
     <td width="50%" align="center">
       <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
 </table>
+
+![](https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=firmanfarelrichardo&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
   <img width="100%" max-width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=firmanfarelrichardo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -101,7 +105,7 @@ const firman = {
 ## GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=firmanfarelrichardo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=firmanfarelrichardo&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
