@@ -74,13 +74,10 @@ const firman = {
 ---
 
 ## Most Used Languages & GitHub Statistics
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=firmanfarelrichardo&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=firmanfarelrichardo&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   <!-- Profile summary cards (compact, aesthetic) -->
   <div align="center" style="margin-top:18px; display:flex; gap:8px; flex-wrap:wrap; justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" height="120"/>
