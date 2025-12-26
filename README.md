@@ -44,26 +44,30 @@ const firman = {
 <div align="center">
 
 ### Languages
-  <p align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; align-items:center;">
-    <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" />
-    <img src="https://skillicons.dev/icons?i=sass" height="48" alt="Sass" />
-    <img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" />
-    <img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" />
-    <img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" />
-    <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" />
-    <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
-    <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
-    <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />
-    <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />
-    <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" />
-    <img src="https://skillicons.dev/icons?i=adobexd" height="48" alt="Adobe XD" />
-  </p>
+<p align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; align-items:center;">
+  <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" />
+</p>
+
+### Frameworks & Libraries
+<p align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; align-items:center;">
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=streamlit" height="48" alt="Streamlit" />
+</p>
+
+### Databases
+<p align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; align-items:center;">
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="48" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
+</p>
 
 </div>
 
