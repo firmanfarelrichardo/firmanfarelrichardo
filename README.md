@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Firman%20Farel%20Richardo%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Firman%20Farel%20Richardo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/firmanfarelrichardo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A;Building+Amazing+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Amazing+Projects" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const firman = {
@@ -39,7 +39,7 @@ const firman = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -79,7 +79,7 @@ const firman = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/firmanfarelrichardo">
@@ -96,7 +96,7 @@ const firman = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <a href="https://github.com/firmanfarelrichardo">
@@ -106,7 +106,7 @@ const firman = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -114,7 +114,7 @@ const firman = {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -126,7 +126,7 @@ const firman = {
 
 ---
 
-## 💬 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -134,7 +134,7 @@ const firman = {
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
