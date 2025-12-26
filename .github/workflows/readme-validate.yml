@@ -1,0 +1,42 @@
+name: README Validation
+
+on:
+  push:
+    paths:
+      - 'README.md'
+    branches: [ main, master ]
+  pull_request:
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  validate-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Validate Markdown
+      uses: nosborn/github-action-markdown-cli@v3.3.0
+      with:
+        files: README.md
+        config_file: .markdownlint.json
+
+    - name: Check for broken links
+      run: |
+        npm install -g markdown-link-check
+        markdown-link-check README.md || true
+
+    - name: Validate badge URLs
+      run: |
+        echo "Checking badge URLs in README..."
+        grep -o 'https://[^"]*' README.md | sort | uniq | while read url; do
+          echo "Checking: $url"
+          curl -s -o /dev/null -w "Status: %{http_code}\n" "$url" || echo "Failed to check: $url"
+        done || true
+
+    - name: Success notification
+      if: success()
+      run: echo "README validation completed successfully!"

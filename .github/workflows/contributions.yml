@@ -1,0 +1,54 @@
+name: Contribution Tracking
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  track-contributions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Generate contribution report
+      run: |
+        cat > CONTRIBUTIONS.md << 'EOF'
+        # Contribution Tracking
+        
+        ## Overview
+        - Last Updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC')
+        
+        ## Workflow Statistics
+        - Profile Updates: Automated
+        - Code Quality Checks: Active
+        - GitHub Stats Sync: Daily
+        
+        ## Active Workflows
+        1. Profile Update - Daily automated updates
+        2. Code Quality - Continuous integration checks
+        3. Stats Sync - Weekly GitHub statistics
+        4. README Validation - On README changes
+        5. Contribution Tracking - 6-hourly reports
+        
+        ## Tools & Integrations
+        - GitHub Actions
+        - Shields.io Badges
+        - GitHub Stats API
+        - Markdown Linting
+        
+        EOF
+
+    - name: Commit report
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action Bot"
+        git add CONTRIBUTIONS.md || true
+        git commit -m "docs: update contribution tracking [skip ci]" || true
+        git push || true

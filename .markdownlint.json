@@ -1,0 +1,20 @@
+{
+  "extends": "default",
+  "rules": {
+    "line-length": {
+      "line_length": 120,
+      "heading_line_length": 120,
+      "headers": true,
+      "headers_length": 120,
+      "stern": false
+    },
+    "no-hard-tabs": true,
+    "blanks-around-headings": true,
+    "blanks-around-lists": true,
+    "no-duplicate-headings": true,
+    "no-bare-urls": true,
+    "code-block-style": {
+      "style": "fenced"
+    }
+  }
+}

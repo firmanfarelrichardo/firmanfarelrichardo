@@ -1,0 +1,39 @@
+name: Update GitHub Profile
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Set Git config
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+
+    - name: Update README timestamp
+      run: |
+        echo "Last updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> UPDATE_LOG.md
+        git add UPDATE_LOG.md || true
+
+    - name: Commit changes
+      run: |
+        if git diff --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "docs: update profile [skip ci]"
+          git push
+        fi

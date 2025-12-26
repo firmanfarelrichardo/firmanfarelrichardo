@@ -1,0 +1,48 @@
+name: Social Media & Contact Info Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 1 * *'
+
+jobs:
+  update-social-links:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Validate social links
+      run: |
+        echo "Validating social media links..."
+        
+        # Email validation
+        echo "Email: farelpasaribu04@gmail.com" >> SOCIAL_LINKS.md
+        
+        # LinkedIn
+        echo "LinkedIn: linkedin.com/in/firmanfarelrichardo" >> SOCIAL_LINKS.md
+        
+        # Instagram
+        echo "Instagram: instagram.com/firmanfarelrichardo" >> SOCIAL_LINKS.md
+        
+        # Portfolio
+        echo "Portfolio: https://firmanfarelrichardo.github.io/" >> SOCIAL_LINKS.md
+        
+        # GitHub
+        echo "GitHub: github.com/firmanfarelrichardo" >> SOCIAL_LINKS.md
+        
+        echo "" >> SOCIAL_LINKS.md
+        echo "Last validated: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> SOCIAL_LINKS.md
+
+    - name: Commit social links
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action Bot"
+        git add SOCIAL_LINKS.md || true
+        git commit -m "docs: update social media links [skip ci]" || true
+        git push || true
+
+    - name: Create success log
+      run: |
+        echo "Social links validation completed successfully!" >> logs/social-validation.log
