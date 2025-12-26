@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/firmanfarelrichardo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff2d95&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Amazing+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff2d95&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Always+Learning+New+Things;Building+Amazing+Projects" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,25 +44,26 @@ const firman = {
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+  <p align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=sass" height="48" alt="Sass" />
+    <img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" />
+    <img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" />
+    <img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" />
+    <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />
+    <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" />
+    <img src="https://skillicons.dev/icons?i=adobexd" height="48" alt="Adobe XD" />
+  </p>
 
 </div>
 
@@ -71,29 +72,13 @@ const firman = {
 ## Most Used Languages & GitHub Statistics
 
 <div align="center">
-  <!-- Top languages (visual) + main stats side-by-side -->
-  <table align="center" width="100%">
-    <tr>
-      <td width="48%" align="center">
-        <!-- Top Languages (visual, normal layout) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&langs_count=8&layout=normal&theme=dark&hide_border=true&title_color=%23ff2d95&icon_color=%2300fff1&text_color=%23cfefff" alt="Top Languages Detailed" height="200"/>
-      </td>
-      <td width="4%"></td>
-      <td width="48%" align="center">
-        <!-- Main GitHub stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=%23ff2d95&icon_color=%23ff2d95&text_color=%23cfefff" alt="GitHub Stats" height="200"/>
-      </td>
-    </tr>
-  </table>
 
   <!-- Profile summary cards (compact, aesthetic) -->
   <div align="center" style="margin-top:18px; display:flex; gap:8px; flex-wrap:wrap; justify-content:center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firmanfarelrichardo&theme=2077" height="120"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firmanfarelrichardo&theme=2077" height="120"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firmanfarelrichardo&theme=2077" height="120"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firmanfarelrichardo&theme=2077" height="120"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firmanfarelrichardo&theme=2077" height="120"/>
-  </div>
+    </div>
 </div>
 
 ---
