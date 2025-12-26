@@ -75,6 +75,10 @@ const firman = {
 
 ## Most Used Languages & GitHub Statistics
 
+![](https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=firmanfarelrichardo&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <div align="center">
 
   <!-- Profile summary cards (compact, aesthetic) -->
@@ -98,7 +102,7 @@ const firman = {
 ## Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="80%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="100%"/>
 </div>
 
 ---
