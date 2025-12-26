@@ -1,24 +1,24 @@
-<!-- Header Banner -->
+<!-- Header Banner (nature colors, dark theme) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Firman%20Farel%20Richardo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2C5F2D,6B8E23,3B4C36&height=180&section=header&text=Hi%20There!%20I'm%20Firman%20Farel%20Richardo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/firmanfarelrichardo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Amazing+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FB069&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Amazing+Projects" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/firmanfarelrichardo?tab=followers">
-    <img src="https://img.shields.io/github/followers/firmanfarelrichardo?label=Followers&style=for-the-badge&logo=github&color=6AD3F7" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/firmanfarelrichardo?label=Followers&style=for-the-badge&logo=github&color=2C5F2D" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/firmanfarelrichardo">
-    <img src="https://img.shields.io/github/stars/firmanfarelrichardo?label=Stars&style=for-the-badge&logo=github&color=6AD3F7" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/firmanfarelrichardo?label=Stars&style=for-the-badge&logo=github&color=2C5F2D" alt="GitHub Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=firmanfarelrichardo&label=Profile%20Views&color=6AD3F7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=firmanfarelrichardo&label=Profile%20Views&color=2C5F2D&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -81,27 +81,19 @@ const firman = {
 
 ## GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/firmanfarelrichardo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmanfarelrichardo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## GitHub Trophies
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2C5F2D&icon_color=2C5F2D&text_color=a8b5d1" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=2C5F2D&icon_color=2C5F2D&text_color=a8b5d1" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <a href="https://github.com/firmanfarelrichardo">
-    <img src="https://github-profile-trophy.vercel.app/?username=firmanfarelrichardo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmanfarelrichardo&theme=dark&hide_border=true&ring=2C5F2D" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -109,19 +101,7 @@ const firman = {
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firmanfarelrichardo/firmanfarelrichardo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firmanfarelrichardo/firmanfarelrichardo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/firmanfarelrichardo/firmanfarelrichardo/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&bg_color=0d1117&color=2C5F2D&line=2C5F2D&point=FFFFFF&area=true&hide_border=true&radius=16" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -129,7 +109,7 @@ const firman = {
 ## Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="100%"/>
 </div>
 
 ---
@@ -149,7 +129,7 @@ const firman = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2C5F2D,6B8E23,3B4C36&height=100&section=footer"/>
 </div>
 
 <div align="center">
