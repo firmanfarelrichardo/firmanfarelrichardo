@@ -86,12 +86,6 @@ const firman = {
     </tr>
   </table>
 
-  <!-- Streak + Activity -->
-  <div style="margin-top:12px; display:flex; gap:18px; justify-content:center; flex-wrap:wrap; align-items:center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmanfarelrichardo&theme=dark&hide_border=true&ring=ff2d95" alt="GitHub Streak" height="90"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&theme=react-dark" alt="Activity Graph" height="90"/>
-  </div>
-
   <!-- Profile summary cards (compact, aesthetic) -->
   <div align="center" style="margin-top:18px; display:flex; gap:8px; flex-wrap:wrap; justify-content:center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firmanfarelrichardo&theme=2077" height="120"/>
@@ -100,6 +94,14 @@ const firman = {
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firmanfarelrichardo&theme=2077" height="120"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firmanfarelrichardo&theme=2077" height="120"/>
   </div>
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&bg_color=0b0f18&color=ff2d95&line=00fff1&point=8a2be2&area=true&hide_border=true&radius=16" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
