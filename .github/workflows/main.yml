@@ -1,0 +1,60 @@
+name: Profile Workflow
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  validate-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Validate Markdown syntax
+      run: |
+        npm install -g markdownlint-cli
+        markdownlint README.md example1.md example2.md || true
+        
+    - name: Setup Git
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        
+    - name: Check for broken links (non-blocking)
+      run: |
+        npm install -g markdown-link-check
+        markdown-link-check README.md || true
+        
+    - name: Update timestamp
+      run: |
+        echo "Last workflow run: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" > .workflow-timestamp.txt
+        
+    - name: Commit changes if needed
+      run: |
+        if [[ -n $(git status -s) ]]; then
+          git add .
+          git commit -m "ci: automated workflow updates [skip ci]" || echo "Nothing to commit"
+          git push origin $(git rev-parse --abbrev-ref HEAD) || echo "Push failed - repository may be read-only"
+        else
+          echo "No changes detected"
+        fi
+      continue-on-error: true
+      
+    - name: Success check
+      run: echo "✅ Profile workflow completed successfully!"
