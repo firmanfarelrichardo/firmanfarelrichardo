@@ -81,17 +81,19 @@ const firman = {
 
 ## GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/firmanfarelrichardo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    </td>
+    <td width="50%" align="center">
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmanfarelrichardo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="100%" max-width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=firmanfarelrichardo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -99,9 +101,7 @@ const firman = {
 ## GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/firmanfarelrichardo">
-    <img src="https://github-profile-trophy.vercel.app/?username=firmanfarelrichardo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-  </a>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=firmanfarelrichardo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@ const firman = {
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&radius=16" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -118,9 +118,9 @@ const firman = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firmanfarelrichardo/firmanfarelrichardo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firmanfarelrichardo/firmanfarelrichardo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/firmanfarelrichardo/firmanfarelrichardo/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firmanfarelrichardo/firmanfarelrichardo/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firmanfarelrichardo/firmanfarelrichardo/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/firmanfarelrichardo/firmanfarelrichardo/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
 
@@ -129,7 +129,7 @@ const firman = {
 ## Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%"/>
 </div>
 
 ---
