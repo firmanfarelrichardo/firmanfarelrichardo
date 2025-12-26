@@ -68,39 +68,38 @@ const firman = {
 
 ---
 
-## Most Used Languages
-
-Saya menampilkan bahasa yang paling sering digunakan di repositori saya. Warna mengikuti tema cyberpunk (neon magenta, cyan, purple).
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&langs_count=8&layout=normal&theme=dark&hide_border=true&title_color=%23ff2d95&icon_color=%2300fff1&text_color=%23cfefff" alt="Top Languages Detailed"/>
-    </td>
-    <td width="50%" align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=%23ff2d95&icon_color=%2300fff1&text_color=%23cfefff&card_width=520" alt="Top Languages Compact"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## GitHub Statistics
+## Most Used Languages & GitHub Statistics
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=%23ff2d95&icon_color=%23ff2d95&text_color=%23cfefff" alt="GitHub Stats"/>
-</div>
+  <!-- Top languages (visual) + main stats side-by-side -->
+  <table align="center" width="100%">
+    <tr>
+      <td width="48%" align="center">
+        <!-- Top Languages (visual, normal layout) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanfarelrichardo&langs_count=8&layout=normal&theme=dark&hide_border=true&title_color=%23ff2d95&icon_color=%2300fff1&text_color=%23cfefff" alt="Top Languages Detailed" height="200"/>
+      </td>
+      <td width="4%"></td>
+      <td width="48%" align="center">
+        <!-- Main GitHub stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=%23ff2d95&icon_color=%23ff2d95&text_color=%23cfefff" alt="GitHub Stats" height="200"/>
+      </td>
+    </tr>
+  </table>
 
-<div align="center" style="margin-top:12px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmanfarelrichardo&theme=dark&hide_border=true&ring=ff2d95" alt="GitHub Streak"/>
-</div>
+  <!-- Streak + Activity -->
+  <div style="margin-top:12px; display:flex; gap:18px; justify-content:center; flex-wrap:wrap; align-items:center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmanfarelrichardo&theme=dark&hide_border=true&ring=ff2d95" alt="GitHub Streak" height="90"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&theme=react-dark" alt="Activity Graph" height="90"/>
+  </div>
 
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanfarelrichardo&bg_color=0b0f18&color=ff2d95&line=00fff1&point=8a2be2&area=true&hide_border=true&radius=16" alt="Contribution Graph" width="100%"/>
+  <!-- Profile summary cards (compact, aesthetic) -->
+  <div align="center" style="margin-top:18px; display:flex; gap:8px; flex-wrap:wrap; justify-content:center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firmanfarelrichardo&theme=2077" height="120"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firmanfarelrichardo&theme=2077" height="120"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firmanfarelrichardo&theme=2077" height="120"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firmanfarelrichardo&theme=2077" height="120"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firmanfarelrichardo&theme=2077" height="120"/>
+  </div>
 </div>
 
 ---
