@@ -39,6 +39,7 @@
 
 ## 🛠️ Tech Stack
 
+<br clear="both">
 <img align="right" height="100%" src="https://media.tenor.com/0ygiqFaX-ssAAAAM/bongo-cat-typing.gif"  />
 
 <table align="center">
