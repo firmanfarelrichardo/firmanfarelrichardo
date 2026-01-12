@@ -37,6 +37,20 @@
 
 <br/>
 
+## GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/firmanfarelrichardo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firmanfarelrichardo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firmanfarelrichardo&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Top Languages"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=firmanfarelrichardo&theme=gruvbox&hide_border=false" height="180" alt="GitHub Streak"/>
+</div>
+
+
 ## Tech Stack
 
 <table align="center" width="100%">
