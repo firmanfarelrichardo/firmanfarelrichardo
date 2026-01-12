@@ -37,7 +37,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center" width="100%">
   <thead>
