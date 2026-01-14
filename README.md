@@ -1,6 +1,17 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/e0/0c/bf/e00cbfe0045873ca3306b88560f9dc01.gif" width="100%" height="300px" style="border-radius: 10px; opacity: 0.9;" alt="Coding Gif"/>
 </div>
+<br/>
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/firmanfarelrichardo?tab=followers">
+    <img src="https://img.shields.io/github/followers/firmanfarelrichardo?label=Followers&style=for-the-badge&logo=github&color=F1C40F&logoColor=black" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/firmanfarelrichardo">
+    <img src="https://img.shields.io/github/stars/firmanfarelrichardo?label=Stars&style=for-the-badge&logo=github&color=E67E22&logoColor=black" alt="GitHub Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=firmanfarelrichardo&label=Profile%20Views&color=2ECC71&style=for-the-badge" alt="Profile Views"/>
+</div>
+
 
 <h1 align="center">Welcome to My Creative Corner!</h1>
 
