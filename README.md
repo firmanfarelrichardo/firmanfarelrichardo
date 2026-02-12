@@ -25,7 +25,7 @@
     <td width="60%" valign="top">
       <h2>About Me</h2>
       <p style="text-align: justify;">
-        I am a passionate Informatics Engineering student with a strong curiosity for technology and innovation. I enjoy exploring AI, data science, and full-stack web development. For me, learning is not just a responsibility — it’s an exciting adventure.
+        I am a passionate Informatics Engineering student with a strong curiosity for technology and innovation. I enjoy exploring AI, Full-stack web development and DevOps. For me, learning is not just a responsibility — it’s an exciting adventure.
 <br/>
 In my free time, I love writing self-reflections, building creative projects, and challenging myself with new experiences. I believe consistency, courage to step outside my comfort zone, and a growth mindset are the keys to building a meaningful and impactful future.
       </p>
