@@ -25,12 +25,10 @@
     <td width="60%" valign="top">
       <h2>About Me</h2>
       <p>
-        Hi! I'm an Informatics student focused on <b>Software Engineering</b> and <b>IoT</b>. 
-        I believe that code should be like a good habit: <i>effective, consistent, and clean.</i>
+        I am a passionate Informatics Engineering student with a strong curiosity for technology and innovation. I enjoy exploring AI, data science, and full-stack web development. For me, learning is not just a responsibility — it’s an exciting adventure.
+<br/>
+In my free time, I love writing self-reflections, building creative projects, and challenging myself with new experiences. I believe consistency, courage to step outside my comfort zone, and a growth mindset are the keys to building a meaningful and impactful future.
       </p>
-      <b>Current Quest:</b> Developing Web Apps with Docker ecosystem.<br/>
-      <b>Learning:</b> Advanced System Architecture & Stoicism.<br/>
-      <b>Philosophy:</b> <i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
     </td>
     <td width="40%" valign="top" align="center">
       <h3>Vibes & Status</h3>
