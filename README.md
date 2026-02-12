@@ -35,9 +35,9 @@
     <td width="40%" valign="top" align="center">
       <h3>Vibes & Status</h3>
       <img src="https://img.shields.io/badge/Hobby-Reading-F1C40F?style=for-the-badge&logo=book&logoColor=black" />
+      <img src="https://img.shields.io/badge/Coding-F1C40F?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
       <img src="https://img.shields.io/badge/Listening_Music-F1C40F?style=for-the-badge&logo=spotify&logoColor=black" />
       <img src="https://img.shields.io/badge/Journaling-F1C40F?style=for-the-badge&logo=notion&logoColor=black" />
-      <img src="https://img.shields.io/badge/Coding-F1C40F?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
       <br/>
       <img src="https://img.shields.io/badge/Mode-Deep%20Work-D35400?style=for-the-badge&logo=target&logoColor=white" />
       <br/>
