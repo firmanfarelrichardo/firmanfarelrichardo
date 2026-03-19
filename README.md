@@ -55,11 +55,10 @@ In my free time, I love writing self-reflections, building creative projects, an
   </a>
 </div>
 
-#<!-- 
+<!-- --> 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=firmanfarelrichardo&theme=gruvbox&hide_border=false" height="180" alt="GitHub Streak"/>
 </div>
--->
 
 
 ## Tech Stack
